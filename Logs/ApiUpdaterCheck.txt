@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 9/22/2022 1:29:36 PM : Starting /Users/mr.shams/Desktop/2020.3.27f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 985.187ms
+moved types parse time: 42ms
+candidates parse time : 0ms
+C# parse time         : 192ms
+candidates check time : 24ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/22/2022 1:38:01 PM : Starting /Users/mr.shams/Desktop/2020.3.27f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91.736ms
+moved types parse time: 39ms
+candidates parse time : 0ms
+C# parse time         : 207ms
+candidates check time : 28ms
+console write time    : 0ms
+
